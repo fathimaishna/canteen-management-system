@@ -1,0 +1,305 @@
+C:\Users\user\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\user\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\user\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\user\source\repos\Login Form\Login Form\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\user\source\repos\Login Form\Login Form\bin\Debug\Guna.UI.dll
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\user\source\repos\Login Form\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\OrderPage.frm_front.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\OrderPage.frm_Item.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\MySql.Data.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\System.Buffers.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\bin\Debug\MySql.Data.xml
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.csproj.SuggestedBindingRedirects.cache
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\OrderPage.frm_Item.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\OrderPage.frm_front.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Proga\UOJ\UOJ-sem 3\IT2143 Visual Programming\Pracical\Login Form\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Login Form\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\Admin\Desktop\Login Form\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+D:\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+D:\Login Form\Login Form\obj\Debug\Login Form.exe.config
+D:\Login Form\Login Form\obj\Debug\Login_Form.Admin.resources
+D:\Login Form\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+D:\Login Form\Login Form\obj\Debug\OrderPage.frm_Item.resources
+D:\Login Form\Login Form\obj\Debug\OrderPage.frm_front.resources
+D:\Login Form\Login Form\obj\Debug\Login_Form.registerPage.resources
+D:\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+D:\Login Form\Login Form\obj\Debug\Login_Form.welcomepage.resources
+D:\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+D:\Login Form\Login Form\obj\Debug\Login Form.exe
+D:\Login Form\Login Form\obj\Debug\Login Form.pdb
+D:\Login Form\Login Form\bin\Debug\Login Form.exe.config
+D:\Login Form\Login Form\bin\Debug\Login Form.exe
+D:\Login Form\Login Form\bin\Debug\Login Form.pdb
+D:\Login Form\Login Form\bin\Debug\Google.Protobuf.dll
+D:\Login Form\Login Form\bin\Debug\Zstandard.Net.dll
+D:\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Login Form\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+D:\Login Form\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+D:\Login Form\Login Form\bin\Debug\System.Memory.dll
+D:\Login Form\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Login Form\Login Form\bin\Debug\System.Buffers.dll
+D:\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+D:\Login Form\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+D:\Login Form\Login Form\bin\Debug\System.Numerics.Vectors.dll
+D:\Login Form\Login Form\bin\Debug\MySql.Data.xml
+D:\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\System.Memory.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\I LIFE\Desktop\Login Form\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.foodItem.resources
+C:\Users\I LIFE\Desktop\Login Form\Login Form\obj\Debug\Login_Form.OrderPage.resources
+G:\c#\canteen management\Login Form\bin\Debug\Login Form.exe.config
+G:\c#\canteen management\Login Form\bin\Debug\Login Form.exe
+G:\c#\canteen management\Login Form\bin\Debug\Login Form.pdb
+G:\c#\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+G:\c#\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+G:\c#\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\c#\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+G:\c#\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+G:\c#\canteen management\Login Form\bin\Debug\System.Memory.dll
+G:\c#\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\c#\canteen management\Login Form\bin\Debug\System.Buffers.dll
+G:\c#\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+G:\c#\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+G:\c#\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+G:\c#\canteen management\Login Form\bin\Debug\MySql.Data.xml
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.exe.config
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.foodItem.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.exe
+G:\c#\canteen management\Login Form\obj\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Login Form.exe
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\canteen management\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.foodItem.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.exe
+C:\Users\Admin\Desktop\canteen management\Login Form\obj\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\System.Memory.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Items.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.pdb
+E:\c#\new project\canteen management\Login Form\bin\Debug\Login Form.exe.config
+E:\c#\new project\canteen management\Login Form\bin\Debug\Login Form.exe
+E:\c#\new project\canteen management\Login Form\bin\Debug\Login Form.pdb
+E:\c#\new project\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\System.Memory.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\System.Buffers.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+E:\c#\new project\canteen management\Login Form\bin\Debug\MySql.Data.xml
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.exe.config
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.Items.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.exe
+E:\c#\new project\canteen management\Login Form\obj\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.exe
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Items.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.exe
+C:\Users\Admin\Desktop\new project\canteen management\Login Form\obj\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Login Form.pdb
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Google.Protobuf.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Zstandard.Net.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\System.Memory.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\System.Buffers.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\bin\Debug\MySql.Data.xml
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.exe.config
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.Admin.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.AdminLogin.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.Items.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.OrderPage.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.registerPage.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.welcomepage.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.exe
+C:\Users\I LIFE\Desktop\final\new project\canteen management\Login Form\obj\Debug\Login Form.pdb
